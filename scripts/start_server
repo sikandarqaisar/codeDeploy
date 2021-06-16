@@ -1,4 +1,2 @@
 #!/bin/bash
-service apache2 start
-rm /var/www/html/index.html  
-
+service httpd start
